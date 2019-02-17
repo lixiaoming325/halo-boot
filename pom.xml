@@ -7,7 +7,7 @@
 	<artifactId>halo-boot</artifactId>
 	<packaging>pom</packaging>
 	<name>Halo Boot Build</name>
-	<description>Spring Boot Build</description>
+	<description>Halo Boot Build</description>
 	<properties>
 		<main.basedir>${basedir}/..</main.basedir>
 	</properties>
