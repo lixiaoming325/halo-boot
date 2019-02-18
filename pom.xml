@@ -12,6 +12,7 @@
 		<main.basedir>${basedir}/..</main.basedir>
 	</properties>
 	<modules>
+		<module>halo-boot-parent</module>
 		<module>halo-boot-dependencies</module>
 		<module>halo-boot-starters</module>
 		<module>halo-boot-docs</module>

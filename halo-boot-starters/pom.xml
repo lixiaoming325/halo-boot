@@ -12,6 +12,7 @@
 	</properties>
 	<modules>
 		<module>halo-boot-starter-mybatis</module>
+		<module>halo-boot-starter-log</module>
 		<module>halo-boot-starter-docs</module>
 		<module>halo-boot-starter-halo</module>
 		<module>halo-boot-starter</module>
