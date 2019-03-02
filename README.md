@@ -18,6 +18,10 @@
 
 支持多包扫描
 
+### 全局异常处理
+* https://github.com/zhaojun1998/exception-handler-demo
+* https://github.com/liushaoming/flylib-boot
+
 ## Start统计
 
 [![Stargazers over time](https://starcharts.herokuapp.com/SoftwareKing/halo-boot.svg)](https://starcharts.herokuapp.com/SoftwareKing/halo-boot)
