@@ -11,7 +11,8 @@
 
 
 ### BeanMapper
-https://github.com/42BV/beanmapper-spring-boot-starter
+* https://github.com/42BV/beanmapper-spring-boot-starter
+* https://github.com/SoftwareKing/orika-spring-boot-starter
 
 ### Spring Boot集成Swagger
 
