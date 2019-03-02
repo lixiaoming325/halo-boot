@@ -3,10 +3,12 @@
 
 ## 待实现的功能
 
-### 加解密
-
+### 加密
+ 应用中的数据库连接信息加密
 * https://github.com/ulisesbocchio/jasypt-spring-boot
- * https://blog.csdn.net/xm526489770/article/details/83412649
+* https://blog.csdn.net/xm526489770/article/details/83412649
+
+
 
 ### BeanMapper
 https://github.com/42BV/beanmapper-spring-boot-starter
