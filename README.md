@@ -8,7 +8,8 @@
 * https://github.com/ulisesbocchio/jasypt-spring-boot
 * https://blog.csdn.net/xm526489770/article/details/83412649
 
-
+### 增强健康检查能力
+ * 目前LiveNessCheck，缺失ReadinessCheck
 
 ### BeanMapper
 * https://github.com/42BV/beanmapper-spring-boot-starter
